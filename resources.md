@@ -42,6 +42,7 @@ Would like to participate in the Lang Jam and need a few resources on creating a
 * [Beautiful Racket: an introduction to language-oriented programming using Racket](https://beautifulracket.com) by Matthew Butterick
 * [Programming Languages: Application and Interpretation](https://www.plai.org) by [Shriram Krishnamurthi](https://cs.brown.edu/~sk/). Freely available online.
 * [Writing a Compiler in Go](https://compilerbook.com/) by [Thorsten Ball](https://thorstenball.com/).
+* [The Definitive ANTLR 4 Reference](https://pragprog.com/titles/tpantlr2/the-definitive-antlr-4-reference/) - You'd never guess by the title that this is one of the best books on how to build a programmming language.
 
 ## Other
 * [Write you a programming language](https://github.com/stereobooster/write-you-a-programming-language) - huge collection of small programming languages that you can implement in a relatively small amount of time for educational purposes as well as other useful resources
